@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **HTML,CSS...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pabl0t0rr](https://github.com/Pabl0t0rr)
-
 - 📫 How to reach me **p.torres.apply@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
