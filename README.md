@@ -21,7 +21,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/pablotorresvillarpro" target="blank">
     <img
@@ -36,7 +36,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
@@ -89,6 +89,8 @@
 </p>
 
 <hr>
+
+<h2 align="left">📊 Github Stats:</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img
